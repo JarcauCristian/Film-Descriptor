@@ -11,4 +11,4 @@ Herou Underpants jumps out the window to fight crime, causing the boys to grab s
 
 ## Characters 
 
--[Herou-Underpants](./../heroes/herou-underpants.md)
+- [Herou-Underpants](./../heroes/herou-underpants.md)
