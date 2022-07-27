@@ -4,8 +4,8 @@
 
 ## Powers and weaknesses
 
-➕ Persuasion
-➕ Manipulation
-➕ Intelligence
-➖ Lack of empathy
-➖ Greed
+- ➕ Persuasion
+- ➕ Manipulation
+- ➕ Intelligence
+- ➖ Lack of empathy
+- ➖ Greed
