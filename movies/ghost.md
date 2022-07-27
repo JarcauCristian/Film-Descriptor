@@ -14,4 +14,4 @@ After 5 years in prison and a lot of therapy, James finally managed to have full
 
 ## Characters
 
-[Ghost](../villains/ghost.md)
+- [Ghost](../villains/ghost.md)
