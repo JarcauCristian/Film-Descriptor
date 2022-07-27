@@ -14,6 +14,7 @@ A small filme site to inspire people to watch.
 ## Villains
 
 - [Mr. Krull](villains/mr_krull.md)
+- [Ghost](villains/ghost.md)
 
 ## Contributors
 
