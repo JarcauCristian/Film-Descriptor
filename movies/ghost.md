@@ -11,3 +11,7 @@ over the control and rob the store, stealing the money and hurting the cashier.
 
 The 'victory' that Ghost managed to pull came to and end, because unlucky to him a police officer was around and managed to arrest him.
 After 5 years in prison and a lot of therapy, James finally managed to have full controll over his actions and thoughts.
+
+## Characters
+
+[Ghost](../villains/ghost.md)
