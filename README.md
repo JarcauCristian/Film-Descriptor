@@ -11,6 +11,8 @@ A small filme site to inspire people to watch.
 
 ## Villains
 
+- [Mr. Krull](villains/mr_krull.md)
+
 ## Contributors
 
 - Grecu Daniel-Gabriel
