@@ -9,6 +9,7 @@ A small filme site to inspire people to watch.
 
 ## Heroes
 
+- [Magnus Chase](heroes/magnus_chase.md)
 ## Villains
 
 - [Mr. Krull](villains/mr_krull.md)
