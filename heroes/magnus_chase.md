@@ -2,6 +2,8 @@
 
 A son of Freyr that like his father he has grate powers.
 
+![Image](../images/magnus_chase.jpg)
+
 ## Powers and weaknesses
 
 - ➕ Alf sedir
