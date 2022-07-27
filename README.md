@@ -1,5 +1,6 @@
 # Film-Descriptor
 
+A small filme site to inspire people to watch.
 ## Movies
 
 ## Heroes
