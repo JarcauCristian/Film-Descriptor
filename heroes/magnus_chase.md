@@ -2,7 +2,7 @@
 
 A son of Freyr that like his father he has grate powers.
 
-![Image](../images/magnus_chase.jpg)
+![Image](../images/magnus-chase.jpg)
 
 ## Powers and weaknesses
 
