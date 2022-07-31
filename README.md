@@ -24,8 +24,8 @@ A small filme site to inspire people to watch.
 
 ## Contributors
 
-- Grecu Daniel-Gabriel
-- Suciu Bianca
-- Maftei David Rares
-- Crizbasan Amelia
-- Jarcau Stefan-Cristian
+- [Grecu Daniel-Gabriel](https://github.com/grecudd)
+- [Suciu Bianca](https://github.com/chiriacbianca)
+- [Maftei David Rares](https://github.com/mDavidGit)
+- [Crizbasan Amelia](https://github.com/AmeliaCrizbasan)
+- [Jarcau Stefan-Cristian](https://github.com/JarcauCristian)
