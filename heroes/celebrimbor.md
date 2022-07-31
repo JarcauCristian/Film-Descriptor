@@ -3,7 +3,7 @@
 The King of Elves and the greatest smith of that time.
 
 
-![Celebrimbor](../images/the-deceiver-hero.png.png)
+![Celebrimbor](../images/the-deceiver-hero.png)
 
 * ➕ Master Smith
 * ➕ Master Archer
