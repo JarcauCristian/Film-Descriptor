@@ -13,7 +13,7 @@ A small filme site to inspire people to watch.
 ## Heroes
 
 - [Magnus Chase](heroes/magnus_chase.md)
-- [Herou Underpants](heroes/herou-underpants.md)
+- [Herou Underpants](heroes/herou_underpants.md)
 - [Celebrimbor](heroes/celebrimbor.md)
 
 ## Villains
